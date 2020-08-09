@@ -1,8 +1,6 @@
 ### Hi there 👋 Welcome to my Github
 
-Backend Engineer!
-
-<a href="https://www.linkedin.com/in/alwarkrish/" rel="some text">![](https://www.linkedin.com/in/alwarkrish/)</a>
+Backend Engineer! Reach out for Colabs.
 
 
 
