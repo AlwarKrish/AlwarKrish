@@ -7,7 +7,7 @@
 
 
 
-[twitter]: https://twitter.com/AlwarGopalakri1
+[twitter]: https://twitter.com/TheTechLud
 [linkedin]: https://www.linkedin.com/in/AlwarKrish
 
 
